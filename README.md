@@ -59,6 +59,6 @@ inside [Python.conf](https://github.com/MedAmineFouzai/Load_Balancer/blob/master
 you cane change the " domainname " to the one that your DNS is running on for serving the clients
 you can add more servers listening on other Ports.
 # Result:
-Requesting the endpoint /served will return the same content but served from a different process.
-load balncing is very important for optimizing the use of resources available, maximize throughput, minimize response time, and avoid overload of any single resource.its some how using hardwaire power for generating asynchronous architecture
+Requesting the endpoint [http://localhost:8000/served](http://localhost:8000/served) will return the same content but served from a different process.
+load balncing is very important for optimizing the use of resources available, maximize throughput, minimize response time, and avoid overload of any single resource.
  
