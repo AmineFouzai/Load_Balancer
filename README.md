@@ -2,7 +2,7 @@
 Load Balancing Tornado Servers With Nginx
 
  ----------------------
-# #setup
+# setup
 <table>
   <tr>
     <td>
@@ -34,7 +34,7 @@ Load Balancing Tornado Servers With Nginx
 
 
 In computing, load balancing refers to the process of distributing a set of tasks over a set of resources, with the aim of making their overall processing more efficien
-## #Nginx:
+## Nginx:
 ![Nginx](https://guides.wp-bullet.com/wp-content/uploads/2017/03/nginx-wordpress-404-redirect-homepage.png)
 [Nginx](https://www.nginx.com/) acts as a single entry point which calld a reverse proxy to a distributed web application working on multiple separate servers. ... As a prerequisite, you'll need to have at least two hosts with a web server software installed and configured to see the benefit of the load balancer which is in this case our tornado servers.  
 
