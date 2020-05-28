@@ -56,7 +56,7 @@ inside [Python.conf](https://github.com/MedAmineFouzai/Load_Balancer/blob/master
         proxy_pass "http://domainname/served";
       }
       }
-you cane change the " domainname " to the one that your DNS is running on for serving the clients
+you can change the " domainname " to the one that your DNS is running on for serving the clients
 
 you can add more servers listening on other Ports.
 # Result:
